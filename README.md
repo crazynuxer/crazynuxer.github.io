@@ -1,2 +1,2 @@
-# crazynuxer.github.io
+# Learn
 Personal Blog
